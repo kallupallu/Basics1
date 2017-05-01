@@ -12,6 +12,7 @@ public class ArrayList_Colors {
 		colors.add("Green");
 		colors.add("Black");
 		colors.add("White");
+		////  hello
 		
 		for (String AC: colors){
 			System.out.println(AC);
